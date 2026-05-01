@@ -1,9 +1,8 @@
-# Data Science Internship Projects
-This repository is for my Data Science Internship at Codsoft 
+# Data Science Internship Projects by Gaurav Gyansu
+This repository is for my Data Science Internship at Codsoft.
+### email : gyansu75@gmail.com 
 
 # 1. TITANIC SURVIVAL PREDICTION
-
-readme_content = """# Titanic - Machine Learning from Disaster 🚢
 
 ## Project Overview
 This project was developed during my Data Science Internship to predict the survival probability of passengers aboard the Titanic. Using the classic Titanic dataset, I built a machine learning pipeline that cleans messy real-world data, performs exploratory analysis, and implements a Random Forest Classifier.
@@ -15,8 +14,6 @@ The goal is to answer the question: “What sorts of people were more likely to 
 During the analysis, two major factors stood out as strong predictors for survival:
 - **Gender:** Female passengers had a significantly higher survival rate than male passengers.
 - **Socio-Economic Class:** Passengers in 1st Class (Pclass 1) were prioritized and had much higher survival chances compared to 3rd Class.
-
-## 🛠️ The Data Science Pipeline
 
 ### 1. Data Cleaning & Preprocessing
 - **Missing Values:** - Filled missing `Age` values using the **Median** to maintain a central distribution.
@@ -32,4 +29,17 @@ During the analysis, two major factors stood out as strong predictors for surviv
 ### 3. Model Evaluation
 - **Accuracy:** ~81.01%
 - **Metrics:** Used a **Confusion Matrix** to visualize where the model correctly predicted outcomes and where it made mistakes.
+
+## Results
+- **Actual Deaths:** 95 died
+- **Actual Survived:** 50 survived
+- **Predicted Deaths:** 10
+- **Predicted Survived:** 24
+
+## Tools and Softwares
+- **Platforms:** Jupyter, Github
+- **Programming languages:** Python
+- **Libraries:** Matplotlib, Seaborn, Scikit-learn
+
+
 
