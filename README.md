@@ -15,6 +15,8 @@ During the analysis, two major factors stood out as strong predictors for surviv
 - **Gender:** Female passengers had a significantly higher survival rate than male passengers.
 - **Socio-Economic Class:** Passengers in 1st Class (Pclass 1) were prioritized and had much higher survival chances compared to 3rd Class.
 
+![bar chart](eda_results.png)
+
 ### 1. Data Cleaning & Preprocessing
 - **Missing Values:** - Filled missing `Age` values using the **Median** to maintain a central distribution.
     - Filled missing `Embarked` ports with the **Mode** (the most frequent value).
@@ -29,6 +31,8 @@ During the analysis, two major factors stood out as strong predictors for surviv
 ### 3. Model Evaluation
 - **Accuracy:** ~81.01%
 - **Metrics:** Used a **Confusion Matrix** to visualize where the model correctly predicted outcomes and where it made mistakes.
+
+![image](labeled_confusion_matrix.png)
 
 ## Results
 - **Actual Deaths:** 95 died
