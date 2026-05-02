@@ -35,8 +35,8 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
 ![Chart](AVP.png)
 
 ## 📈 Results
-*   **Mean Squared Error:** [0.38]
-*   **R-squared Score:** [0.80]
+*   **Mean Squared Error:** [0.38] This should be near to 0 for a good prediction
+*   **R-squared Score:** [0.80] This should be near to 1 for a good prediction ( >= 0.80 is considered fair prediction )
 *   **Key Insight:** Our model revealed that the **Director's track record** and the **number of Votes** (popularity) are the strongest predictors of a movie's final rating.
 
 ![Bar Chart](key-factor.png)
