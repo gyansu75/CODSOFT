@@ -2,11 +2,7 @@
 This repository is for my Data Science Internship at Codsoft.
 ### email : gyansu75@gmail.com 
 ---
-# Movie Rating Prediction with Python 🎬
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange.svg)
-![Pandas](https://img.shields.io/badge/Data_Analysis-Pandas-green.svg)
+# Movie Rating Prediction 🎬
 
 ## 📌 Project Overview
 This project aims to estimate the IMDb ratings of Indian movies using historical data. As a Data Science Intern project, the goal was to analyze which factors—such as **Director**, **Genre**, or **Lead Actors**—most significantly influence the audience's perception and the overall success of a film.
