@@ -17,51 +17,33 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
 *   **Genre:** Category (Action, Drama, etc.).
 *   **Rating:** The target variable (IMDb score).
 *   **Votes:** Number of user reviews.
-*   **Director & Stars:** The creative talent behind the film.
+*   **Director & Actors:** The creative talent behind the film.
 
 ## 🛠️ Technical Workflow
 1.  **Data Preprocessing:** 
-    *   Cleaned missing values and handled non-numeric strings in the `Year` and `Duration` columns using Regular Expressions.
+    *   Cleaned missing values and handled non-numeric strings in the `Year` and `Duration` columns.
     *   Standardized the `Votes` column for numerical consistency.
 2.  **Feature Engineering:**
     *   Implemented **Mean Encoding** (Target Encoding) for categorical variables like `Director` and `Actor`. This converted creative talent into statistical impact scores.
-3.  **Modeling:**
+3.  **Model Making:**
     *   Utilized a **Random Forest Regressor** to capture non-linear relationships between features.
     *   Split data into **80% Training** and **20% Testing** sets to ensure model generalizability.
-4.  **Evaluation:**
-    *   Assessed performance using **R-squared (R2)** and **Mean Squared Error (MSE)**.
+4.  **Evaluation and Testing:**
+    *   Assessed performance using **R-squared (R2)** and **Mean Squared Error (MSE)** methods.
 
 ## 📈 Results
-*   **Mean Squared Error:** [Insert your MSE here, e.g., 0.42]
-*   **R-squared Score:** [Insert your R2 here, e.g., 0.81]
+*   **Mean Squared Error:** [0.38]
+*   **R-squared Score:** [0.80]
 *   **Key Insight:** Our model revealed that the **Director's track record** and the **number of Votes** (popularity) are the strongest predictors of a movie's final rating.
-
-## 🚀 How to Run
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/your-username/movie-rating-prediction.git](https://github.com/your-username/movie-rating-prediction.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install pandas numpy seaborn matplotlib scikit-learn
-    ```
-3.  Ensure `IMDb Movies India.csv` is in the root directory.
-4.  Run the script:
-    ```bash
-    python movie_predictor.py
-    ```
+![image]()
 
 ---
-**Author:** [Your Name]  
-**Role:** Data Science Intern  
-**Date:** May 2026
+**Author:** [Gaurav Gyansu]  
+**Role:** Data Science Intern
 
 ---
 
-### A quick "Intern" tip:
-When you upload this to GitHub, make sure you also include a `.gitignore` file so you don't accidentally upload giant temporary files or your local environment settings. It keeps your repository looking clean and professional! 
 
-How are the accuracy numbers looking on your end? AnySince you've got the numbers down, let’s add some "visual flair." In an internship, showing a manager a table of numbers is okay, but showing them a chart that proves the model works is how you get hired full-time.
 
 Here is the visualization step to add to your script, followed by a professional README for your GitHub.
 
