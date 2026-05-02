@@ -51,11 +51,3 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
 **Role:** Data Science Intern
 
 ---
-
-
-
-Here is the visualization step to add to your script, followed by a professional README for your GitHub.
-
----
-
-## 📊 Step 7: Visualization (Proving the Model Works)
