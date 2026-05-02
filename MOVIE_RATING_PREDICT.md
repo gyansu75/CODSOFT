@@ -37,6 +37,11 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
 *   **Key Insight:** Our model revealed that the **Director's track record** and the **number of Votes** (popularity) are the strongest predictors of a movie's final rating.
 ![image]()
 
+## Tools and Softwares
+- **Platforms:** Jupyter, Github
+- **Programming languages:** Python
+- **Libraries:** Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy
+
 ---
 **Author:** [Gaurav Gyansu]  
 **Role:** Data Science Intern
