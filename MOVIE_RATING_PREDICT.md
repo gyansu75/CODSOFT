@@ -30,12 +30,16 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
     *   Split data into **80% Training** and **20% Testing** sets to ensure model generalizability.
 4.  **Evaluation and Testing:**
     *   Assessed performance using **R-squared (R2)** and **Mean Squared Error (MSE)** methods.
+    *   We also compared Actual Ratings with the Predicted Ratings and plotted a chart to analyze the variations between them.
+
+![Chart](AVP.png)
 
 ## 📈 Results
 *   **Mean Squared Error:** [0.38]
 *   **R-squared Score:** [0.80]
 *   **Key Insight:** Our model revealed that the **Director's track record** and the **number of Votes** (popularity) are the strongest predictors of a movie's final rating.
-![image]()
+
+![Bar Chart](key-factor.png)
 
 ## Tools and Softwares
 - **Platforms:** Jupyter, Github
