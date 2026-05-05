@@ -41,6 +41,8 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
 
 ![Bar Chart](key-factor.png)
 
+---
+
 ## Tools and Softwares
 - **Platforms:** Jupyter, Github
 - **Programming languages:** Python
