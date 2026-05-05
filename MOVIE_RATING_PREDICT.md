@@ -49,7 +49,7 @@ The analysis is based on the **IMDb Movies India.csv** dataset, which contains:
 - **Libraries:** Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy
 
 ---
-**Author:** [Gaurav Gyansu]  
+**Author:** Gaurav Gyansu 
 **Role:** Data Science Intern
 
 ---
