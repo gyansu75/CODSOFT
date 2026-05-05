@@ -28,6 +28,8 @@ Before modeling, we analyzed the physical characteristics of each species:
 - **Statistical Profiling**: Calculated Mean and Spread measurements to define the unique "fingerprint" of each species.
 - **Key Findings**: Petal measurements show significantly higher separation between species than sepal measurements, particularly for *Iris-setosa*.
 
+![Bar Plot](pair_plot.png)
+
 ---
 ### 2. Model Development
 - **Algorithm**: Logistic Regression (chosen for its efficiency and interpretability in classification tasks).
@@ -44,6 +46,12 @@ The model achieved an **Accuracy of 100%** on the test set. Performance was vali
 ## 📈 Key Visualizations
 - **Bar Comparison**: A breakdown of average dimensions showing that *Iris-virginica* is generally the largest, while *Iris-setosa* is the smallest with the widest sepals.
 - **Confusion Matrix**: A heat-mapped visual showing perfect alignment between predicted and actual labels.
+
+![Bar Plot](iris_bar_comparison.png)
+
+![Bar Plot](iris_bar_comparison_std.png)
+
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 ## 📈 Results and Predictions
