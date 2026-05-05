@@ -1,3 +1,10 @@
+# Data Science Internship Projects by Gaurav Gyansu
+
+This repository is for my Data Science Internship at Codsoft.
+### email : gyansu75@gmail.com 
+
+---
+
 # Iris Flower Species Classification
 
 ## 📌 Project Overview
@@ -47,10 +54,10 @@ The model achieved an **Accuracy of 100%** on the test set. Performance was vali
   **Note** : These are actual results as there were no predictions due to 100% accuracy achieved by the model.
 
 ---
-
-### Tools and Libraries
-- Python 3.8+, Jupyter, Github
-- Pandas, Scikit-Learn, Matplotlib, Seaborn
+## Tools and Softwares
+- **Platforms:** Jupyter, Github
+- **Programming languages:** Python+3.8
+- **Libraries:** Matplotlib, Seaborn, Scikit-learn, Pandas
 
 ---
 **Author:** [Gaurav Gyansu]  
