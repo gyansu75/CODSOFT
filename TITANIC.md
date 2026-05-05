@@ -39,11 +39,19 @@ During the analysis, two major factors stood out as strong predictors for surviv
 - **Actual Survived:** 50 survived
 - **Predicted Deaths:** 10
 - **Predicted Survived:** 24
+  
+---
 
 ## Tools and Softwares
 - **Platforms:** Jupyter, Github
 - **Programming languages:** Python
 - **Libraries:** Matplotlib, Seaborn, Scikit-learn
+
+---
+**Author:** [Gaurav Gyansu]  
+**Role:** Data Science Intern
+
+---
 
 
 
