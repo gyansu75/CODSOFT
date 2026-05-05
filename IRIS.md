@@ -40,9 +40,9 @@ The model achieved an **Accuracy of 100%** on the test set. Performance was vali
 
 ---
 ## 📈 Results and Predictions
-  **Iris-setosa** - 10
-  **Iris-versicolor** - 9
-  **Iris-virginica** - 11
+ - **Iris-setosa** - 10
+ - **Iris-versicolor** - 9
+ - **Iris-virginica** - 11
 
   **Note** : These are actual results as their were no predictions due to 100% accuracy achieved by the model.
 
