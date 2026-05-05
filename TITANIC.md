@@ -48,7 +48,7 @@ During the analysis, two major factors stood out as strong predictors for surviv
 - **Libraries:** Matplotlib, Seaborn, Scikit-learn
 
 ---
-**Author:** [Gaurav Gyansu]  
+**Author:** Gaurav Gyansu
 **Role:** Data Science Intern
 
 ---
