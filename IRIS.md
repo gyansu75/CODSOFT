@@ -68,7 +68,7 @@ The model achieved an **Accuracy of 100%** on the test set. Performance was vali
 - **Libraries:** Matplotlib, Seaborn, Scikit-learn, Pandas
 
 ---
-**Author:** [Gaurav Gyansu]  
+**Author:** Gaurav Gyansu 
 **Role:** Data Science Intern
 
 ---
