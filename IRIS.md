@@ -10,7 +10,7 @@ This repository is for my Data Science Internship at Codsoft.
 ## 📌 Project Overview
 This project focuses on the classic Iris classification problem, a fundamental task in supervised machine learning. The goal is to build a model that can accurately predict the species of an Iris flower based on its morphological measurements (sepal and petal dimensions).
 
-## 📊 Dataset Description
+## 📊 Dataset
 The Iris Dataset contains 150 records under 5 attributes:
 - **Sepal Length** (cm)
 - **Sepal Width** (cm)
