@@ -8,5 +8,6 @@ This repository is for my Data Science Internship at Codsoft.
 # 2. MOVIE RATING PREDICTION
 [click here to see the project](MOVIE_RATING_PREDICT.md)
 
-# 3.
+# 3. IRIS Flower Species Classification
+[click here to see the project](IRIS.md)
 
