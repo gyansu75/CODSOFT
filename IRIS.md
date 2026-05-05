@@ -17,7 +17,7 @@ Each species has 50 observations, providing a perfectly balanced dataset for tra
 
 ### 1. Exploratory Data Analysis (EDA)
 Before modeling, we analyzed the physical characteristics of each species:
-- **Visual Exploration**: Generated **Pair Plots** to identify feature correlations and species separation.
+- **Visual Exploration**: Generated **Pair Plots, Bar Charts** to identify feature correlations and species separation.
 - **Statistical Profiling**: Calculated mean measurements to define the unique "fingerprint" of each species.
 - **Key Findings**: Petal measurements show significantly higher separation between species than sepal measurements, particularly for *Iris-setosa*.
 
@@ -44,7 +44,7 @@ The model achieved an **Accuracy of 100%** on the test set. Performance was vali
  - **Iris-versicolor** - 9
  - **Iris-virginica** - 11
 
-  **Note** : These are actual results as their were no predictions due to 100% accuracy achieved by the model.
+  **Note** : These are actual results as there were no predictions due to 100% accuracy achieved by the model.
 
 ---
 
