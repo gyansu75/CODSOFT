@@ -1,11 +1,10 @@
-readme_content = """# Iris Flower Species Classification
-*A Machine Learning project developed as part of a Data Science Internship.*
+# Iris Flower Species Classification
 
 ## 📌 Project Overview
 This project focuses on the classic Iris classification problem, a fundamental task in supervised machine learning. The goal is to build a model that can accurately predict the species of an Iris flower based on its morphological measurements (sepal and petal dimensions).
 
 ## 📊 Dataset Description
-The [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) contains 150 records under 5 attributes:
+The Iris Dataset contains 150 records under 5 attributes:
 - **Sepal Length** (cm)
 - **Sepal Width** (cm)
 - **Petal Length** (cm)
@@ -27,7 +26,7 @@ Before modeling, we analyzed the physical characteristics of each species:
 - **Data Split**: 80% Training / 20% Testing.
 - **Scaling**: Standardized features to ensure optimal convergence (where applicable).
 
-### 3. Evaluation
+### 3. Evaluation and Testing
 The model achieved an **Accuracy of 100%** on the test set. Performance was validated using:
 - **Accuracy Score**: The ratio of correctly predicted observations.
 - **Confusion Matrix**: Confirmed zero misclassifications across all three categories.
@@ -36,16 +35,14 @@ The model achieved an **Accuracy of 100%** on the test set. Performance was vali
 - **Bar Comparison**: A breakdown of average dimensions showing that *Iris-virginica* is generally the largest, while *Iris-setosa* is the smallest with the widest sepals.
 - **Confusion Matrix**: A heat-mapped visual showing perfect alignment between predicted and actual labels.
 
-## 🚀 Getting Started
+## 📈 Results and Predictions
+  **Iris-setosa** - 10
+  **Iris-versicolor** - 9
+  **Iris-virginica** - 11
 
-### Prerequisites
-- Python 3.8+
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
+  **Note** : These are actual results as their were no predictions due to 100% accuracy achieved by the model.
 
-### Installation & Execution
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/username/iris-classification.git](https://github.com/username/iris-classification.git)
+### Tools and Libraries
+- Python 3.8+, Jupyter, Github
+- Pandas, Scikit-Learn, Matplotlib, Seaborn
+
